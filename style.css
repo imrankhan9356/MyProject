@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin-top: 3%;
+    color: rgb(32, 32, 21);
+    font-size: 90px;
+    align-content: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.hours {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(190, 172, 207);
+    text-align: center;
+    display: flex;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+
+}
+
+.minutes {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(190, 172, 207);
+    text-align: center;
+    display: flex;
+    display: inline-block;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.seconds {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(190, 172, 207);
+    text-align: center;
+    display: flex;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+
+}
+
+.container {
+    border: 3px solid;
+    border-radius: 30px;
+    background-color: brown;
+    align-items: center;
+    align-content: center;
+    display: flex ;
+    /* width: 550px; */
+    justify-content: center;
+
+
+}
